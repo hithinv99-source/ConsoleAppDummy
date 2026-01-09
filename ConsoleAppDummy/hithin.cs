@@ -9,6 +9,8 @@ namespace ConsoleAppDummy
         public void SayHello()
         {
             Console.WriteLine("Hello from hithin!");
+
+            Console.WriteLine("Performing addition and subtraction:");
         }
 
         public int Subtract (int a, int b)
