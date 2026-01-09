@@ -10,5 +10,10 @@ namespace ConsoleAppDummy
         {
             Console.WriteLine("Hello from hithin!");
         }
+
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
