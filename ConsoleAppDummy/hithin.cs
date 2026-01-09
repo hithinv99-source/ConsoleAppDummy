@@ -6,5 +6,9 @@ namespace ConsoleAppDummy
 {
     internal class hithin
     {
+        public void SayHello()
+        {
+            Console.WriteLine("Hello from hithin!");
+        }
     }
 }
